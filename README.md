@@ -1,7 +1,8 @@
 # Cursor_Animation
 The Cursor_Animation in basic HTML, CSS, JS
 
-![image](https://github.com/AvatarN03/Cursor_Animation/assets/114817400/8b9ec960-16ee-41e4-978d-6f091a793659)
+![Uploading image.png…]()
+
 
 
 The Website is Responsive:-
